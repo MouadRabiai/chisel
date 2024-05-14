@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/test/scala/pack/countingtest.scala:12:14: not found: type counting[0m
+[0m[[0m[31merror[0m] [0m[0m    test(new counting) { c =>[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
