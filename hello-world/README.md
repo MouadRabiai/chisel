@@ -12,3 +12,7 @@ This file coontains the important things about chisel
 
 
   * Examples :     3.U(4.W) = 3 unsigned in 4 bits
+  
+  * char : val a = 'A'.U
+
+  
