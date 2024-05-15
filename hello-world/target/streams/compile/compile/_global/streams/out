@@ -1,5 +1,34 @@
-[0m[[0m[33mwarn[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/Mux.scala:20:8: Generated class mux differs only in case from Mux.[0m
-[0m[[0m[33mwarn[0m] [0m[0m  Such classes will overwrite one another on case-insensitive filesystems.[0m
-[0m[[0m[33mwarn[0m] [0m[0mobject mux extends App {[0m
-[0m[[0m[33mwarn[0m] [0m[0m       ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:17:5: not found: value switch[0m
+[0m[[0m[31merror[0m] [0m[0m    switch(io.i_val){[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:18:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0000".U)  {io.o_val := "b0000001".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:19:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0001".U)  {io.o_val := "b1001111".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:20:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0010".U)  {io.o_val := "b0010010".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:21:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0011".U)  {io.o_val := "b0000110".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:22:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0100".U)  {io.o_val := "b1001100".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:23:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0101".U)  {io.o_val := "b1100100".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:24:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0110".U)  {io.o_val := "b0101000".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:25:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b0111".U)  {io.o_val := "b0001111".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:26:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b1000".U)  {io.o_val := "b0000000".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/mrabiai/Bureau/chisel/chisel-examples/hello-world/src/main/scala/pack/segment_7_encoder.scala:27:9: not found: value is[0m
+[0m[[0m[31merror[0m] [0m[0m        is("b1001".U)  {io.o_val := "b0000100".U}[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m11 errors found[0m
